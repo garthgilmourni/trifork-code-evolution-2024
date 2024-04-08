@@ -1,6 +1,6 @@
 # Sample projects for Trifork Code Evolution 2024
 
-This repository contains three sample projects, used to demostrate the [JetBrains AI Assistant](https://www.jetbrains.com/ai/) at [Trifork Code Evolution 2024](https://trifork.info/code-evolution-2024). The projects are completely independent.
+This repository contains three sample projects, used to demonstrate the [JetBrains AI Assistant](https://www.jetbrains.com/ai/) at [Trifork Code Evolution 2024](https://trifork.info/code-evolution-2024). The projects are completely independent.
 
 The details of the projects are as follows:
 
