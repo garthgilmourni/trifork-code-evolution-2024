@@ -5,8 +5,8 @@ This repository contains three sample projects, used to demostrate the [JetBrain
 The details of the projects are as follows:
 
 * The `regex-sample` project contains a mystery function called `g`, which mimics the [UNIX grep command](https://en.wikipedia.org/wiki/Grep). We want to see if the AI Assistant can recognise this function and suggest useful refactorings.
-* The `photography-sample` project contains a mystery function called `ev` , which calculated the [Exposure Value](https://en.wikipedia.org/wiki/Exposure_value) used in photogrpahy. We want to see if the AI Assistant can explain the problem domain to us, refactor the function, suggest testing scenarios and then create a JUnit test.
-* The `ktor-tasks-ai` project contains a sample Ktor service that acts as a Task Manager. We want to see of the AI Assistant can add support for POST and DELETE requests, and generate test methods using the Ktor Testing Library.
+* The `photography-sample` project contains a mystery function called `ev` , which calculates the [Exposure Value](https://en.wikipedia.org/wiki/Exposure_value) used in photogrpahy. We want to see if the AI Assistant can explain the problem domain to us, refactor the function, suggest testing scenarios and then create a JUnit test.
+* The `ktor-tasks-ai` project contains a sample Ktor service that acts as a Task Manager. We want to see if the AI Assistant can add support for POST and DELETE requests, and generate the corresponding test methods using the Ktor Testing Library.
 
 Slides for the presentation [can be found here](https://docs.google.com/presentation/d/13z6x1cvZPbwrPDLUtOmm5bZPuAqs2n_XIARG8iqEsn8/edit?usp=sharing). 
 
